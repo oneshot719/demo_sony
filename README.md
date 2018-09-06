@@ -1,1 +1,1 @@
-# demo_sony
+This is a demo showing how to have a master DS push a generic app that then would configure itself on a DS client acting as a second stage DS serving a modified version of the generic application to it's clients.
